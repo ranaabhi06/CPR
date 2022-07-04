@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "formValues": {
+        "department": "PDG"
+      },
+      "desValue": {
+        "designation": "Team Lead"
+      },
+      "stateValue": {
+        "States": "Assam"
+      },
+      "districtValue": {
+        "districts": "Biswanath"
+      },
+      "id": "IC33"
+    }
+  ]
+}
